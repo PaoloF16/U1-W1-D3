@@ -3,6 +3,10 @@ body {
 }
 header {
   text-align: center;
+  margin: 10%;
+}
+video {
+  width: 100%;
 }
 h1,
 h2,
@@ -10,7 +14,7 @@ h3 {
   font-family: Georgia, serif;
 }
 header p {
-  background-color: #ffdc88;
+  background-color: #fff7e4;
 }
 hr {
   border-top: 1px solid color ffdc88;
