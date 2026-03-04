@@ -1,5 +1,19 @@
+body {
+  font-family: Georgia, "Times New Roman", serif;
+}
 header {
   text-align: center;
+}
+h1,
+h2,
+h3 {
+  font-family: Georgia, serif;
+}
+header p {
+  background-color: #ffdc88;
+}
+hr {
+  border-top: 1px solid color ffdc88;
 }
 main {
   margin-left: 20%;
