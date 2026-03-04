@@ -7,6 +7,11 @@ header {
 }
 video {
   width: 100%;
+  border-radius: 1em;
+  box-shadow: 2px 1px 15px 1px;
+}
+video:hover {
+  transform: scale(1.05);
 }
 h1,
 h2,
